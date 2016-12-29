@@ -25,7 +25,7 @@ Input variables:
 ```
 8 - contact: contact communication type (categorical: 'cellular','telephone')
 9 - date: YYYY-MM-DD format (categorical)
-10 - duration: duration of final call in campaign, in seconds (numeric).
+10 - duration: duration of final call in campaign, in seconds (numeric). Not available at time of call.
 ```
 
 # other attributes:
